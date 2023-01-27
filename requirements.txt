@@ -1,0 +1,2 @@
+aiogram==2.24
+py_librus_api==0.3.1
